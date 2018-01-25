@@ -7,11 +7,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 512 512"
+   viewBox="0 0 952.40295 626.97913"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="HTML5_logo_and_wordmark.svg">
+   sodipodi:docname="HTML5_logo_and_wordmark.svg"
+   width="952.40295"
+   height="626.97913">
   <metadata
      id="metadata20">
     <rdf:RDF>
@@ -20,6 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>HTML5 Logo</dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -38,42 +41,70 @@
      inkscape:window-height="744"
      id="namedview16"
      showgrid="false"
-     inkscape:zoom="0.4609375"
-     inkscape:cx="-239.72881"
-     inkscape:cy="256"
+     inkscape:zoom="0.23046875"
+     inkscape:cx="254.63594"
+     inkscape:cy="633.84796"
      inkscape:window-x="49"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="svg2"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <title
      id="title4">HTML5 Logo</title>
-  <path
-     d="M108.4 0h23v22.8h21.2V0h23v69h-23V46h-21v23h-23.2M206 23h-20.3V0h63.7v23H229v46h-23M259.5 0h24.1l14.8 24.3L313.2 0h24.1v69h-23V34.8l-16.1 24.8l-16.1-24.8v34.2h-22.6M348.7 0h23v46.2h32.6V69h-55.6"
-     id="path6"
+  <rect
+     style="fill:#ffffff;stroke:none;stroke-width:7.51200008;stroke-miterlimit:4;stroke-dasharray:none"
+     id="rect3338"
+     width="952.40295"
+     height="626.97913"
+     x="0"
+     y="0"
+     inkscape:export-filename="/home/gsyc/obijuan/Documentos/Develop/URJC-Gsyc-2018-CSAAI-App-audiovisuales-internet/wiki/html5/html5-logo.png"
      inkscape:export-xdpi="90"
      inkscape:export-ydpi="90" />
-  <path
-     fill="#e44d26"
-     d="M107.6 471l-33-370.4h362.8l-33 370.2L255.7 512"
-     id="path8"
-     inkscape:export-xdpi="90"
-     inkscape:export-ydpi="90" />
-  <path
-     fill="#f16529"
-     d="M256 480.5V131H404.3L376 447"
-     id="path10"
-     inkscape:export-xdpi="90"
-     inkscape:export-ydpi="90" />
-  <path
-     fill="#ebebeb"
-     d="M142 176.3h114v45.4h-64.2l4.2 46.5h60v45.3H154.4M156.4 336.3H202l3.2 36.3 50.8 13.6v47.4l-93.2-26"
-     id="path12"
-     inkscape:export-xdpi="90"
-     inkscape:export-ydpi="90" />
-  <path
-     fill="#fff"
-     d="M369.6 176.3H255.8v45.4h109.6M361.3 268.2H255.8v45.4h56l-5.3 59-50.7 13.6v47.2l93-25.8"
-     id="path14"
-     inkscape:export-xdpi="90"
-     inkscape:export-ydpi="90" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="back"
+     transform="translate(207.18449,63.998051)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Layer 1"
+     style="display:inline"
+     transform="translate(207.18449,63.998051)">
+    <path
+       d="m 117.07797,2.1694917 23,0 0,22.8000003 21.2,0 0,-22.8000003 23,0 0,69.0000003 -23,0 0,-23 -21,0 0,23 -23.2,0 m 97.6,-46 -20.3,0 0,-23.0000003 63.7,0 0,23.0000003 -20.4,0 0,46 -23,0 m 53.5,-69.0000003 24.1,0 14.8,24.3000003 14.8,-24.3000003 24.1,0 0,69.0000003 -23,0 0,-34.2 -16.1,24.8 -16.1,-24.8 0,34.2 -22.6,0 m 89.2,-69.0000003 23,0 0,46.2000003 32.6,0 0,22.8 -55.6,0"
+       id="path6"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/gsyc/obijuan/Documentos/Develop/URJC-Gsyc-2018-CSAAI-App-audiovisuales-internet/wiki/html5/html5-logo.png" />
+    <path
+       d="m 116.27797,473.16949 -32.999999,-370.4 362.799999,0 -33,370.2 -148.7,41.2"
+       id="path8"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:connector-curvature="0"
+       style="fill:#e44d26"
+       inkscape:export-filename="/home/gsyc/obijuan/Documentos/Develop/URJC-Gsyc-2018-CSAAI-App-audiovisuales-internet/wiki/html5/html5-logo.png" />
+    <path
+       d="m 150.67797,178.46949 114,0 0,45.4 -64.2,0 4.2,46.5 60,0 0,45.3 -101.6,0 m 2,22.8 45.6,0 3.2,36.3 50.8,13.6 0,47.4 -93.2,-26"
+       id="path12"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:connector-curvature="0"
+       style="fill:#ebebeb"
+       inkscape:export-filename="/home/gsyc/obijuan/Documentos/Develop/URJC-Gsyc-2018-CSAAI-App-audiovisuales-internet/wiki/html5/html5-logo.png" />
+    <path
+       d="m 378.27797,178.46949 -113.8,0 0,45.4 109.6,0 m -4.1,46.5 -105.5,0 0,45.4 56,0 -5.3,59 -50.7,13.6 0,47.2 93,-25.8"
+       id="path14"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff"
+       inkscape:export-filename="/home/gsyc/obijuan/Documentos/Develop/URJC-Gsyc-2018-CSAAI-App-audiovisuales-internet/wiki/html5/html5-logo.png" />
+  </g>
 </svg>
